@@ -16,6 +16,7 @@ const teamCategories = [
     members: [
       { name: 'Ansh Setia', role: 'Planning ', phone: '9149151900' },
       { name: 'Adarsh Sharma', role: 'Planning ', phone: '9478768325' },
+      { name: 'Yash Goyal', role: 'Outreach', phone: '9306317636' },
     ]
   },
   {
